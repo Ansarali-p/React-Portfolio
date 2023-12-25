@@ -24,7 +24,7 @@ const Contact = () => {
           });
       };
     return (
-        <section id="contactPage" style={{background:'red'}}>
+        <section id="contactPage">
             <div id="clients">
                 <h1 className="contactpageTitle">My clients</h1>
                 <p className="clientsDesc">
